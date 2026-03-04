@@ -1,0 +1,418 @@
+{
+  "khicas": {
+    "KH-001": {
+      "originalFilename": "兔毛黃髮晶_13.5mm.png",
+      "codedFilename": "KH-001.png"
+    },
+    "KH-002": {
+      "originalFilename": "冰烏雞翡翠_6.95mm.png",
+      "codedFilename": "KH-002.png"
+    },
+    "KH-003": {
+      "originalFilename": "冰烏雞黑翡翠_10.5mm.png",
+      "codedFilename": "KH-003.png"
+    },
+    "KH-004": {
+      "originalFilename": "冰綠翡翠.png",
+      "codedFilename": "KH-004.png"
+    },
+    "KH-005": {
+      "originalFilename": "千層綠幽靈_10mm.png",
+      "codedFilename": "KH-005.png"
+    },
+    "KH-006": {
+      "originalFilename": "土沉香_14.4mm.png",
+      "codedFilename": "KH-006.png"
+    },
+    "KH-007": {
+      "originalFilename": "墨翠_16mm.png",
+      "codedFilename": "KH-007.png"
+    },
+    "KH-008": {
+      "originalFilename": "夢幻紫晶_12.5mm.png",
+      "codedFilename": "KH-008.png"
+    },
+    "KH-009": {
+      "originalFilename": "孔雀石_13mm.png",
+      "codedFilename": "KH-009.png"
+    },
+    "KH-010": {
+      "originalFilename": "小葉紫檀木_16.5mm.png",
+      "codedFilename": "KH-010.png"
+    },
+    "KH-011": {
+      "originalFilename": "月亮石_14.3mm.png",
+      "codedFilename": "KH-011.png"
+    },
+    "KH-012": {
+      "originalFilename": "棋沉香_12.2mm.png",
+      "codedFilename": "KH-012.png"
+    },
+    "KH-013": {
+      "originalFilename": "極光水晶_14.6-15.5mm.png",
+      "codedFilename": "KH-013.png"
+    },
+    "KH-014": {
+      "originalFilename": "沉水香_13mm.png",
+      "codedFilename": "KH-014.png"
+    },
+    "KH-015": {
+      "originalFilename": "沉香_20.5mm.png",
+      "codedFilename": "KH-015.png"
+    },
+    "KH-016": {
+      "originalFilename": "沉香貔貅_14mm.png",
+      "codedFilename": "KH-016.png"
+    },
+    "KH-017": {
+      "originalFilename": "油綠色翡翠_13.5mm.png",
+      "codedFilename": "KH-017.png"
+    },
+    "KH-018": {
+      "originalFilename": "烏雞黑翡翠_17.8-17.9mm.png",
+      "codedFilename": "KH-018.png"
+    },
+    "KH-019": {
+      "originalFilename": "白棋楠沉香_14.8mm.png",
+      "codedFilename": "KH-019.png"
+    },
+    "KH-020": {
+      "originalFilename": "白水晶_13.5mm.png",
+      "codedFilename": "KH-020.png"
+    },
+    "KH-021": {
+      "originalFilename": "碧璽_12mm.png",
+      "codedFilename": "KH-021.png"
+    },
+    "KH-022": {
+      "originalFilename": "紅棋楠_9mm.png",
+      "codedFilename": "KH-022.png"
+    },
+    "KH-023": {
+      "originalFilename": "紅虎眼石_16mm.png",
+      "codedFilename": "KH-023.png"
+    },
+    "KH-024": {
+      "originalFilename": "紫棋楠_12.8-13mm.png",
+      "codedFilename": "KH-024.png"
+    },
+    "KH-025": {
+      "originalFilename": "紫極光_13-13.4mm.png",
+      "codedFilename": "KH-025.png"
+    },
+    "KH-026": {
+      "originalFilename": "紫鈦晶_14.6-14.9mm.png",
+      "codedFilename": "KH-026.png"
+    },
+    "KH-027": {
+      "originalFilename": "紫鋰輝石_12.3mm.png",
+      "codedFilename": "KH-027.png"
+    },
+    "KH-028": {
+      "originalFilename": "紫黃晶_10x14mm.png",
+      "codedFilename": "KH-028.png"
+    },
+    "KH-029": {
+      "originalFilename": "綠幽靈_13.5-14mm.png",
+      "codedFilename": "KH-029.png"
+    },
+    "KH-030": {
+      "originalFilename": "綠棋楠_15.5-15.7mm.png",
+      "codedFilename": "KH-030.png"
+    },
+    "KH-031": {
+      "originalFilename": "舒俱萊_7.5mm.png",
+      "codedFilename": "KH-031.png"
+    },
+    "KH-032": {
+      "originalFilename": "藍水翡翠_14.9mm.png",
+      "codedFilename": "KH-032.png"
+    },
+    "KH-033": {
+      "originalFilename": "藍虎眼石_12mm.png",
+      "codedFilename": "KH-033.png"
+    },
+    "KH-034": {
+      "originalFilename": "藍針水晶_14.2mm.png",
+      "codedFilename": "KH-034.png"
+    },
+    "KH-035": {
+      "originalFilename": "藍銅礦_14mm.png",
+      "codedFilename": "KH-035.png"
+    },
+    "KH-036": {
+      "originalFilename": "超級七_18.1mm.png",
+      "codedFilename": "KH-036.png"
+    },
+    "KH-037": {
+      "originalFilename": "金太陽石_14.5mm.png",
+      "codedFilename": "KH-037.png"
+    },
+    "KH-038": {
+      "originalFilename": "金曜石_18mm.png",
+      "codedFilename": "KH-038.png"
+    },
+    "KH-039": {
+      "originalFilename": "金曜石豼貅_16mm.png",
+      "codedFilename": "KH-039.png"
+    },
+    "KH-040": {
+      "originalFilename": "金運石_10mm.png",
+      "codedFilename": "KH-040.png"
+    },
+    "KH-041": {
+      "originalFilename": "銀曜石_18.5mm.png",
+      "codedFilename": "KH-041.png"
+    },
+    "KH-042": {
+      "originalFilename": "銅髮晶_15.4mm.png",
+      "codedFilename": "KH-042.png"
+    },
+    "KH-043": {
+      "originalFilename": "鐵舒俱萊_9mm+.png",
+      "codedFilename": "KH-043.png"
+    },
+    "KH-044": {
+      "originalFilename": "陰沉金絲楠木_18mm.png",
+      "codedFilename": "KH-044.png"
+    },
+    "KH-045": {
+      "originalFilename": "陽綠翡翠_8.15mm.png",
+      "codedFilename": "KH-045.png"
+    },
+    "KH-046": {
+      "originalFilename": "馬粉晶_8.9mm.png",
+      "codedFilename": "KH-046.png"
+    },
+    "KH-047": {
+      "originalFilename": "黃棋楠_10.8mm.png",
+      "codedFilename": "KH-047.png"
+    },
+    "KH-048": {
+      "originalFilename": "黃虎眼石_8mm.png",
+      "codedFilename": "KH-048.png"
+    },
+    "KH-049": {
+      "originalFilename": "黑曜石_16mm.png",
+      "codedFilename": "KH-049.png"
+    },
+    "KH-050": {
+      "originalFilename": "黑極光紫鈦晶.png",
+      "codedFilename": "KH-050.png"
+    },
+    "KH-051": {
+      "originalFilename": "黑檀木_20mm.png",
+      "codedFilename": "KH-051.png"
+    },
+    "KH-052": {
+      "originalFilename": "黑碧璽_14mm.png",
+      "codedFilename": "KH-052.png"
+    }
+  },
+  "nmecrystals": {
+    "NME-001": {
+      "originalFilename": "千層彩幽靈_15mm.png",
+      "codedFilename": "NME-001.png"
+    },
+    "NME-002": {
+      "originalFilename": "半盤彩幽靈_13mm.png",
+      "codedFilename": "NME-002.png"
+    },
+    "NME-003": {
+      "originalFilename": "坦桑石_9mm.png",
+      "codedFilename": "NME-003.png"
+    },
+    "NME-004": {
+      "originalFilename": "天河石_13mm.png",
+      "codedFilename": "NME-004.png"
+    },
+    "NME-005": {
+      "originalFilename": "彩曜石_10mm.png",
+      "codedFilename": "NME-005.png"
+    },
+    "NME-006": {
+      "originalFilename": "彩螢石_10mm.png",
+      "codedFilename": "NME-006.png"
+    },
+    "NME-007": {
+      "originalFilename": "彼得石_12mm.png",
+      "codedFilename": "NME-007.png"
+    },
+    "NME-008": {
+      "originalFilename": "摩根石_9mm.png",
+      "codedFilename": "NME-008.png"
+    },
+    "NME-009": {
+      "originalFilename": "有皮藍玉髓_7mm.png",
+      "codedFilename": "NME-009.png"
+    },
+    "NME-010": {
+      "originalFilename": "橄欖石_4mm.png",
+      "codedFilename": "NME-010.png"
+    },
+    "NME-011": {
+      "originalFilename": "橙月亮石_10mm.png",
+      "codedFilename": "NME-011.png"
+    },
+    "NME-012": {
+      "originalFilename": "櫻花瑪瑙_13mm.png",
+      "codedFilename": "NME-012.png"
+    },
+    "NME-013": {
+      "originalFilename": "海藍寶_13mm.png",
+      "codedFilename": "NME-013.png"
+    },
+    "NME-014": {
+      "originalFilename": "瑪瑙_12mm.png",
+      "codedFilename": "NME-014.png"
+    },
+    "NME-015": {
+      "originalFilename": "瑪瑙帶髮_16mm.png",
+      "codedFilename": "NME-015.png"
+    },
+    "NME-016": {
+      "originalFilename": "白幽靈_11mm.png",
+      "codedFilename": "NME-016.png"
+    },
+    "NME-017": {
+      "originalFilename": "碟鈦晶_8mm.png",
+      "codedFilename": "NME-017.png"
+    },
+    "NME-018": {
+      "originalFilename": "粉晶_10mm.png",
+      "codedFilename": "NME-018.png"
+    },
+    "NME-019": {
+      "originalFilename": "紫光曜石_10mm.png",
+      "codedFilename": "NME-019.png"
+    },
+    "NME-020": {
+      "originalFilename": "紫幽靈_13mm.png",
+      "codedFilename": "NME-020.png"
+    },
+    "NME-021": {
+      "originalFilename": "紫晶黃晶.png",
+      "codedFilename": "NME-021.png"
+    },
+    "NME-022": {
+      "originalFilename": "紫水晶_14mm.png",
+      "codedFilename": "NME-022.png"
+    },
+    "NME-023": {
+      "originalFilename": "紫牙烏石榴石_8mm.png",
+      "codedFilename": "NME-023.png"
+    },
+    "NME-024": {
+      "originalFilename": "紫藍螢石_11mm.png",
+      "codedFilename": "NME-024.png"
+    },
+    "NME-025": {
+      "originalFilename": "紫鋰輝_14mm.png",
+      "codedFilename": "NME-025.png"
+    },
+    "NME-026": {
+      "originalFilename": "紫龍晶_11mm.png",
+      "codedFilename": "NME-026.png"
+    },
+    "NME-027": {
+      "originalFilename": "羽毛螢石_12mm.png",
+      "codedFilename": "NME-027.png"
+    },
+    "NME-028": {
+      "originalFilename": "茶晶_14mm.png",
+      "codedFilename": "NME-028.png"
+    },
+    "NME-029": {
+      "originalFilename": "草莓晶_10mm.png",
+      "codedFilename": "NME-029.png"
+    },
+    "NME-030": {
+      "originalFilename": "葡萄石黑髮晶共生_14mm.png",
+      "codedFilename": "NME-030.png"
+    },
+    "NME-031": {
+      "originalFilename": "薔薇輝石_11mm.png",
+      "codedFilename": "NME-031.png"
+    },
+    "NME-032": {
+      "originalFilename": "藍光拉長石_8mm.png",
+      "codedFilename": "NME-032.png"
+    },
+    "NME-033": {
+      "originalFilename": "藍晶石_10mm.png",
+      "codedFilename": "NME-033.png"
+    },
+    "NME-034": {
+      "originalFilename": "藍磷灰_10mm.png",
+      "codedFilename": "NME-034.png"
+    },
+    "NME-035": {
+      "originalFilename": "藍紋瑪瑙_9mm.png",
+      "codedFilename": "NME-035.png"
+    },
+    "NME-036": {
+      "originalFilename": "藍螢石_9mm.png",
+      "codedFilename": "NME-036.png"
+    },
+    "NME-037": {
+      "originalFilename": "藍髮晶_12mm.png",
+      "codedFilename": "NME-037.png"
+    },
+    "NME-038": {
+      "originalFilename": "螢石_10mm.png",
+      "codedFilename": "NME-038.png"
+    },
+    "NME-039": {
+      "originalFilename": "血滴堇青石_10mm.png",
+      "codedFilename": "NME-039.png"
+    },
+    "NME-040": {
+      "originalFilename": "貓頭鷹白水晶.png",
+      "codedFilename": "NME-040.png"
+    },
+    "NME-041": {
+      "originalFilename": "透石膏_10mm.png",
+      "codedFilename": "NME-041.png"
+    },
+    "NME-042": {
+      "originalFilename": "金太陽_5mm.png",
+      "codedFilename": "NME-042.png"
+    },
+    "NME-043": {
+      "originalFilename": "金鈦晶_7mm.png",
+      "codedFilename": "NME-043.png"
+    },
+    "NME-044": {
+      "originalFilename": "金髮晶_14mm.png",
+      "codedFilename": "NME-044.png"
+    },
+    "NME-045": {
+      "originalFilename": "阿拉善_15mm.png",
+      "codedFilename": "NME-045.png"
+    },
+    "NME-046": {
+      "originalFilename": "阿魯沙_11mm.png",
+      "codedFilename": "NME-046.png"
+    },
+    "NME-047": {
+      "originalFilename": "青金石_8mm.png",
+      "codedFilename": "NME-047.png"
+    },
+    "NME-048": {
+      "originalFilename": "香檳色魔鬼髮晶_銀銅髮晶_12mm.png",
+      "codedFilename": "NME-048.png"
+    },
+    "NME-049": {
+      "originalFilename": "魔鬼海藍寶_11mm.png",
+      "codedFilename": "NME-049.png"
+    },
+    "NME-050": {
+      "originalFilename": "黑瑪瑙小盤珠_6mm.png",
+      "codedFilename": "NME-050.png"
+    },
+    "NME-051": {
+      "originalFilename": "黑髮晶_12mm.png",
+      "codedFilename": "NME-051.png"
+    }
+  }
+}
